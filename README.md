@@ -1,1 +1,4 @@
 # Video-Skipper-Deobfuscated
+
+This skips videos by playing them all at once. They also auto answer questions.
+////////////////////////////////////////////////////////////////////////////////
